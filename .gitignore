@@ -1,0 +1,15 @@
+# Maven build output
+target/
+bin/
+
+# Eclipse metadata
+.classpath
+.project
+.settings/
+
+# VS Code local settings
+.vscode/
+
+# Local database and environment files
+*.env
+.env
